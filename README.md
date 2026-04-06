@@ -23,7 +23,7 @@
 <br/>
 
 **➜ Accéder au guide complet :**
-**[femininsante.com — Enlever un grain de milium sur le visage (Guide 2026)](https://femininsante.com/comment-enlever-un-grain-de-milium-sur-le-visage/)**
+**[femininsante.com — Enlever un grain de milium sur le visage (Guide 2026)](https://feminin-sante.github.io/enlever-grain-milium-visage-sans-cicatrice-guide-2026/)**
 
 </div>
 
@@ -198,5 +198,3 @@ Utilisation libre à des fins non commerciales avec attribution obligatoire.
 **© 2026 — Féminin Santé · Belle & Santé Magazine**
 
 _Fait avec ♥ pour une peau saine, une information fiable et un SEO éthique._
-
-[🌸 Lire l'article original complet sur Féminin Santé](https://femininsante.com/comment-enlever-un-grain-de-milium-sur-le-visage/)
