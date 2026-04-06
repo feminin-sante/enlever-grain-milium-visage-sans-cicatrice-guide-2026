@@ -1,6 +1,4 @@
 
----BEGIN README---
-
 <div align="center">
 
 <!-- BADGE LANGUE -->
